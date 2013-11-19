@@ -1,0 +1,10 @@
+name: NBShop
+version: 3.0
+description: Shops bitch!
+author: Teken
+main: Teken.nbshops.Main
+softdepend: [Essentials]
+commands:
+    shop:
+        description: Shop command
+        usage: </command> arguments 
